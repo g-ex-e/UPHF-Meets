@@ -1,0 +1,13 @@
+{
+  "name": "uphf-meets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Application universitaire de rencontres vidéo peer-to-peer entre étudiants, basée sur WebRTC.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
